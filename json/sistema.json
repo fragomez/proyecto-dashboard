@@ -1,0 +1,60 @@
+{
+    "index": [
+        "¡Saludos!",
+        "Bienvenido a mi aplicativo web, estaras muy contento con los resultados, para registrarse contactate con el administrador del aplicativo Java para realizar el debido proceso",
+        "Más información",
+        "Ingreso",
+        "Identificación",
+        "Contraseña",
+        "Iniciar",
+        "Registro con el administrador Java",
+        "¿Quienes somos?",
+        "En esta pagina encontraras el administrador del aplicativo Java para visualizar los datos guardados, solo podras editar los datos que requieras",
+        "Regresar",
+        "Un administrador de bases de datos es aquel profesional que administra las tecnologías de la información y la comunicación, siendo responsable de los aspectos técnicos, tecnológicos, científicos, inteligencia de negocios y las legalidades de lasbases de datos, y de su calidad de datos.​"
+    ],
+    "home": {
+        "titulo": {
+                "icono": "school-sharp",
+                "nombre": "Egresados",
+                "view": "panel_main"
+        },
+        "subtitulo": {
+            "icono": "home",
+            "nombre": "Inicio"
+        },
+        "menu": {
+            "Menu": [
+                {
+                    "icono": "people-sharp",
+                    "nombre": "Usuarios",
+                    "view": "tb_usuario"
+                },
+                {
+                    "icono": "school",
+                    "nombre": "Datos academicos",
+                    "view": "tb_dato_academico"
+                },
+                {
+                    "icono": "cash-sharp",
+                    "nombre": "Situación laboral",
+                    "view": "tb_situacion"
+                }
+            ],
+            "Administrar": [
+                {
+                    "icono": "people",
+                    "nombre": "Administradores",
+                    "view": "tb_administrador"
+                }
+            ],
+            "Gráficas": [
+                {
+                    "icono": "stats-chart",
+                    "nombre": "Grafica",
+                    "view": "graficas"
+                }
+            ]
+        }
+    }
+}
